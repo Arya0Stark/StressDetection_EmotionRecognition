@@ -6,7 +6,7 @@ We detect an individual emotion in each video frame and the decision on the stre
 
 This project focuses on emotion recognition using mediapipe and using the data regarding the emotions to predict stress levels in a person. The key to doing this project was to capitalize the information taught us in our academic course- Advanced Image Processing. 
 
-Model is trained using random forest classifier and the code is in Python. The project captres the user's picture in real time webcam feed, analyzes emotion using geometric coordinates and then displays the stress result.
+Model is trained using random forest classifier and the code is in Python. The project captures the user's picture in real time webcam feed, analyzes emotion using geometric coordinates and then displays the stress result.
 
 Has an accuracy of nearly 99.067%.
 
