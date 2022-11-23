@@ -8,7 +8,7 @@ This project focuses on emotion recognition using mediapipe and using the data r
 
 Model is trained using random forest classifier and the code is in Python. The project captures the user's picture in real time webcam feed, analyzes emotion using geometric coordinates and then displays the stress result.
 
-Has an accuracy of nearly 99.067%.
+Has an accuracy of nearly 98.68%.
 
 This file contains 
 -the code,
